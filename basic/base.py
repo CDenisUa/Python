@@ -1,12 +1,9 @@
-# Variables
-integer = 10
-float_number = 3.14
-boolean = True | False
-string = 'hello'
+
 list_data = [1, 'abc', True]
 tuple_data = (1, 2, 3)
 set_data = {1, 2, 3, 3}
 dict_data = {'a': 1, 'b': 2, 'c': 3}
+
 
 
 # Input global function
